@@ -1,5 +1,5 @@
 # react-native-ecommerce
-A minimal React Native e-commerce app template
+A minimal React Native e-commerce app template.
 
 This project provides a minimal starter project structure for your next awesome e-commerce app. 
 
