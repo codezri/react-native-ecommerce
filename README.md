@@ -7,6 +7,7 @@ This project provides a minimal starter project structure for your next awesome 
 - Simple state management with React Context API.
 - Easy to extend with additional features.
 - A mock API service for product data.
+- Built with [Expo](https://expo.dev).
 
 ## Sample Screens
 
