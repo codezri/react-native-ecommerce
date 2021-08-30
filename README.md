@@ -9,6 +9,8 @@ This project provides a minimal starter project structure for your next awesome 
 - A mock API service for product data.
 - Built with [Expo](https://expo.dev).
 
+Check [this](https://blog.logrocket.com/build-ecommerce-app-from-scratch-with-react-native/) tutorial for guidance.
+
 ## Sample Screens
 
 ### Products List
